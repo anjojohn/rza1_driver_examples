@@ -23,7 +23,7 @@
 /* Options */
 //#define DEBUG
 
-#define DRIVER_VERSION	"2016-07-08""
+#define DRIVER_VERSION	"2016-07-08"
 #define DRIVER_NAME	"drvsmpl"
 
 #ifdef DEBUG
